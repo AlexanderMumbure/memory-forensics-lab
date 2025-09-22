@@ -1,0 +1,11 @@
+# Ignore the memory image file
+memory.img
+
+# Ignore the entire output directory
+forensics_output/
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+.env
+venv/
